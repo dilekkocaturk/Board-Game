@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>admin</Username>
+    <Password>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</Password>
+    <BestScore>0</BestScore>
+    <NameSurname>
+    </NameSurname>
+    <PhoneNumber>
+    </PhoneNumber>
+    <Address>
+    </Address>
+    <City>
+    </City>
+    <Country>
+    </Country>
+    <Email>
+    </Email>
+  </User>
+  <User>
+    <Username>user</Username>
+    <Password>04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb</Password>
+    <BestScore>0</BestScore>
+    <NameSurname>
+    </NameSurname>
+    <PhoneNumber>
+    </PhoneNumber>
+    <Address>
+    </Address>
+    <City>
+    </City>
+    <Country>
+    </Country>
+    <Email>
+    </Email>
+  </User>
+</Users>
